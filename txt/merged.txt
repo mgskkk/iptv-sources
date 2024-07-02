@@ -3312,7 +3312,7 @@ Chile"_tvg-id=""_tvg-country="Chile"_tvg-language="Spanish"_tvg-logo="https://ep
 [BD]黑龙江影视_8m1080,https://stream1.freetv.fun/2b6af76ec639c5dec60b79d46668472d9e2efabb9691fc1236aa49e1830e80f4.m3u8
 
 综合,#genre#
-[BD]cctv1[ipv6],https://stream1.freetv.fun/e8620a40b42350ce6285021d39d2d73a665502cfbfadcb91cd1ca8269f5b492d.m3u8
+[SD]cctv1综合,https://stream1.freetv.fun/df7cf71b3e02015b9029ac087b3eec56fde92fd81d162962570629faec293037.m3u8
 [BD]cctv12[ipv6],https://stream1.freetv.fun/61ec8e0d4e9bc58f9bcf51be1930765b2a6a982ecd21f383dc33cb85d1422a72.m3u8
 [SD]cctv-4中文国际,https://stream1.freetv.fun/5ecf26f2e60ac62579cd196934377718114f8d8a41503e8354c446c72f1b09b7.m3u8
 [BD]cctv-4_中文国际_美洲hd,https://stream1.freetv.fun/ade3dc85dadb5ae553232e2a9bb2ec406b79ad395640524096ffdc98afb42385.ctv
@@ -16634,7 +16634,6 @@ CCTV-4K_超高清[超清HDR],http://192.168.123.1:23234/rtp/239.3.1.245:2000
 兵团卫视,http://192.168.123.1:23234/rtp/239.3.1.144:4120
 厦门卫视,http://192.168.123.1:23234/rtp/239.3.1.143:4120
 四川卫视,http://192.168.123.1:23234/rtp/239.3.1.29:8288
-大湾区卫视,http://192.168.123.1:23234/rtp/239.3.1.161:8001
 宁夏卫视,http://192.168.123.1:23234/rtp/239.3.1.46:8124
 山西卫视,http://192.168.123.1:23234/rtp/239.3.1.42:8172
 广西卫视,http://192.168.123.1:23234/rtp/239.3.1.39:8300
@@ -16774,7 +16773,6 @@ CCTV-4K_超高清[超清HDR],rtp://239.3.1.245:2000
 兵团卫视,rtp://239.3.1.144:4120
 厦门卫视,rtp://239.3.1.143:4120
 四川卫视,rtp://239.3.1.29:8288
-大湾区卫视,rtp://239.3.1.161:8001
 宁夏卫视,rtp://239.3.1.46:8124
 山西卫视,rtp://239.3.1.42:8172
 广西卫视,rtp://239.3.1.39:8300
